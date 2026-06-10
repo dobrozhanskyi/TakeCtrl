@@ -1,0 +1,12 @@
+{
+  "/Users/sdobrozhanskyi/TakeCtrl/TakeCtrl/ClickInterceptor.swift" : {
+    "abi-baseline-json" : "/Users/sdobrozhanskyi/TakeCtrl/build/DerivedData/Build/Intermediates.noindex/TakeCtrl.build/Release/TakeCtrl.build/Objects-normal/arm64/TakeCtrl.abi.json",
+    "const-values" : "/Users/sdobrozhanskyi/TakeCtrl/build/DerivedData/Build/Intermediates.noindex/TakeCtrl.build/Release/TakeCtrl.build/Objects-normal/arm64/TakeCtrl-primary.swiftconstvalues",
+    "dependencies" : "/Users/sdobrozhanskyi/TakeCtrl/build/DerivedData/Build/Intermediates.noindex/TakeCtrl.build/Release/TakeCtrl.build/Objects-normal/arm64/TakeCtrl-primary.d",
+    "diagnostics" : "/Users/sdobrozhanskyi/TakeCtrl/build/DerivedData/Build/Intermediates.noindex/TakeCtrl.build/Release/TakeCtrl.build/Objects-normal/arm64/TakeCtrl-primary.dia",
+    "objc-header" : "/Users/sdobrozhanskyi/TakeCtrl/build/DerivedData/Build/Intermediates.noindex/TakeCtrl.build/Release/TakeCtrl.build/Objects-normal/arm64/TakeCtrl-Swift.h",
+    "swiftdoc" : "/Users/sdobrozhanskyi/TakeCtrl/build/DerivedData/Build/Intermediates.noindex/TakeCtrl.build/Release/TakeCtrl.build/Objects-normal/arm64/TakeCtrl.swiftdoc",
+    "swiftmodule" : "/Users/sdobrozhanskyi/TakeCtrl/build/DerivedData/Build/Intermediates.noindex/TakeCtrl.build/Release/TakeCtrl.build/Objects-normal/arm64/TakeCtrl.swiftmodule",
+    "swiftsourceinfo" : "/Users/sdobrozhanskyi/TakeCtrl/build/DerivedData/Build/Intermediates.noindex/TakeCtrl.build/Release/TakeCtrl.build/Objects-normal/arm64/TakeCtrl.swiftsourceinfo"
+  }
+}

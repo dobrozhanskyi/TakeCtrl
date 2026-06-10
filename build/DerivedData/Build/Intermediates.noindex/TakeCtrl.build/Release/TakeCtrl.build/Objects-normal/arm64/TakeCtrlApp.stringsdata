@@ -1,0 +1,96 @@
+{
+  "source": "/Users/sdobrozhanskyi/TakeCtrl/TakeCtrl/TakeCtrlApp.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Open System Settings",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 73
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enable TakeCtrl",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 81
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 83
+        }
+      },
+      {
+        "comment": "",
+        "key": "Control-Click Override",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 93
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 95
+        }
+      },
+      {
+        "comment": "",
+        "key": "Shift-Scroll Override",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 102
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 104
+        }
+      },
+      {
+        "comment": "",
+        "key": "Open at Login",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 114
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 116
+        }
+      },
+      {
+        "comment": "",
+        "key": "About",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 149
+        }
+      },
+      {
+        "comment": "",
+        "key": "Quit",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 155
+        }
+      }
+    ]
+  },
+  "version": 1
+}
