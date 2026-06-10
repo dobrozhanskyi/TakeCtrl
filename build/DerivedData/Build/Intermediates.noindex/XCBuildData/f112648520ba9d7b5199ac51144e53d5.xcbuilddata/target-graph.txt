@@ -1,2 +1,0 @@
-Target dependency graph (1 target)
-Target 'TakeCtrl' in project 'TakeCtrl' (no dependencies)
